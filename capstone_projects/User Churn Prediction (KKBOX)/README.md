@@ -1,4 +1,4 @@
-The goal of this project is to build an algorithm that predicts whether a user will churn after his/her subscription expires. The binary classification models are trained and tested on sample data sourced from Kaggle. 
+The goal of this project is to predict whether a user will churn after his/her subscription expires. The binary classification models built to achieve the objective are trained and tested on sample data sourced from Kaggle. 
 The data was uploaded/provided on Kaggle by the firm KKBOX for the WSDM 2018 challenge.
 
 The folder includes both Project Report and codebase.
